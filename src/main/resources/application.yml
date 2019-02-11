@@ -1,0 +1,3 @@
+micronaut:
+    application:
+        name: fourth-dimension-of-ocr-with-tesseract

@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.infosupport
+---
+testFramework: junit
+sourceLanguage: java
